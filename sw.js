@@ -1,0 +1,1 @@
+importScripts("https://wherently.com/sw.js");
